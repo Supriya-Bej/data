@@ -1,0 +1,49 @@
+{
+    "name": "Supriya Bej",
+    "intro": "Web Developer",
+    "button": "Hire Me / Contact Me",
+    "image": "Photo/pic.jpg",
+    "address": {
+        "vill": "Barkashmili",
+        "Post": "Deulbarch",
+        "Dist": "Purba Medinipur"
+    },
+    "aboutMe": "I am a passionate web developer skilled in PHP, MySQL, JavaScript, AJAX, Bootstrap, and API integration.",
+    "profession": "Web Developer",
+    "skills": {
+        "Fronted": "HTML,CSS,Bootstrap, JavaScript, AJAX",
+        "Backend": "php,mySQL"
+    },
+    "project": {
+        "project_name": "Cake(E-Commerce)",
+        "project_image": "Photo/project_image.png",
+        "technologies": "html,css,Bootstrap,JavaScript,PHP,MySQL",
+        "project_desc": "Developed a dynamic cake shop web application where users can browse cakes, add to cart, manage wishlist, and place orders.",
+        "features": [
+            "User Authentication",
+            "Add to Cart",
+            "Wishlist System",
+            "Category Filtering",
+            "Product Search",
+            "Order Management",
+            "Admin Dashboard",
+            "Stock Management"
+        ],
+        "git_link": "https://github.com/Supriya-Bej/cake.git"
+    },
+    "Tools": "Vs Code, GitHub, XAMPP",
+    "education": [
+        "Bachelor of Computer Application (BCA)",
+        "Contai College of Learning & Management Science",
+        "MAKAUT University",
+        "2024 - 2027"
+    ],
+    "experience": "Fresher",
+    "contact": {
+        "phone_number": "9153079959",
+        "email": "supriyabej95@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/supriya-bej",
+        "github": "https://github.com/Supriya-Bej/cake.git",
+        "location": "Purba Medinipur, West Bengal, India"
+    }
+}
