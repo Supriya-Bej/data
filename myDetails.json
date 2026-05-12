@@ -16,7 +16,7 @@
     },
     "project": {
         "project_name": "Cake(E-Commerce)",
-        "project_image": "Photo/project_image.png",
+        "project_image": "https://supriya-bej.github.io/data/project_image.png",
         "technologies": "html,css,Bootstrap,JavaScript,PHP,MySQL",
         "project_desc": "Developed a dynamic cake shop web application where users can browse cakes, add to cart, manage wishlist, and place orders.",
         "features": [
